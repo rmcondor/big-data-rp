@@ -1,4 +1,4 @@
-# big-data-rp
+# Big Data - Research Proposal
 ## General information
 * Authors: Camila Riancho, Diego Fasan and Ronny M. Condor
 * Department of Economics - Universidad de San Andrés
